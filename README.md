@@ -3,10 +3,10 @@
 ## My python code for "The Complete Python Bootcamp From Zero to Hero in Python" course
 
 
-### Contact:
+# Contact:
 
-#### Anubhav Dogra
+## Anubhav Dogra
 
-anubhavdogra7@gmail.com
+## anubhavdogra7@gmail.com
 
-https://www.linkedin.com/in/anubhav-dogra/
+## https://www.linkedin.com/in/anubhav-dogra/
