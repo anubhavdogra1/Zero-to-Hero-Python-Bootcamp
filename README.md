@@ -1,9 +1,7 @@
 # Python_Bootcamp
 
-## My python code for "The Complete Python Bootcamp From Zero to Hero in Python" course (Udemy)
-
+### My python code for "The Complete Python Bootcamp From Zero to Hero in Python" course (Udemy)
 ---
-
 # Contact
 
 ## Author: Anubhav Dogra
